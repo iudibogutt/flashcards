@@ -16,6 +16,9 @@ footer p {
     font-size: 0.9rem;
     margin-top: 0.5rem
     ;
-    #container{ 
+}
+
+    #container { 
     display: flex;
-    }
+
+
