@@ -22,7 +22,6 @@ footer p {
     display: flex;
 
     }
-
     .cartao {
       margin: 1rem 1rem;  
       background-color: rgba(8, 24, 247, 0.638);
@@ -35,7 +34,7 @@ footer p {
         background-color: rgba(8, 24, 247, 0.638) ;
         height: 100%;
       }
-      .cartao__conteudo height {
+      .cartao__conteudo h3{
         background-color: rgba(8, 24, 247, 0.638);
         text-align: left;
         padding: 0.5rem;
@@ -44,6 +43,3 @@ footer p {
         border-radius: 0.6rem;
         font-size: 1vw;
       }
-    }
-
-
