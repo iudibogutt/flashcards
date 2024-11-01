@@ -1,6 +1,5 @@
 body {
     background-color: rgba(8, 24, 247, 0.638);
-    font-family: bai Jamjuree;
     }
 
 footer{ 
@@ -14,8 +13,7 @@ footer{
 footer p {
     text-align: center; 
     font-size: 0.9rem;
-    margin-top: 0.5rem
-    ;
+    margin-top: 0.5rem;
 }
 
     #container { 
